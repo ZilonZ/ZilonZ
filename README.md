@@ -24,7 +24,7 @@
 
 Fullstack developer and Systems Engineering student passionate about frontend development, UI/UX, and modern web technologies.
 
-Focused on building scalable, responsive, and visually engaging web applications with clean code and intuitive user experiences.
+Focused on building scalable, responsive, and visually engaging web applications with clean code and intuitive user experiences. :sunglasses:
 
 📫 Contact: **zilonoy19@gmail.com**
 
@@ -91,10 +91,10 @@ Focused on building scalable, responsive, and visually engaging web applications
 
 **Corporacion Universitaria del Meta (UNIMETA)** <br/>
 🎓 Systems Engineering<br/>
-📅 2022 – At the moment <br/>
-⏳ In progress.  
+📅 2022 – Present <br/>
+⏳ Currently pursuing degree.
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZilonZ&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
@@ -104,7 +104,7 @@ Focused on building scalable, responsive, and visually engaging web applications
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZilonZ&theme=tokyonight&hide_border=true"/>
-</p>
+</p> -->
 
 
 <!-- <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"> Estadísticas de GitHub:</h2> -->
